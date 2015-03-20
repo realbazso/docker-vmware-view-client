@@ -1,4 +1,3 @@
-MAINTAINER realbazso
 FROM ubuntu:14.04
 
 RUN 	echo "deb http://archive.canonical.com/ubuntu/ trusty partner" >> /etc/apt/sources.list && \
